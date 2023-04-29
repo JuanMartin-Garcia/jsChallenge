@@ -14,6 +14,7 @@ obj = {
 price: 19.99,
 currency: ‘USD’
 }
+
 Challenge 2
 On this page, write a function that assigns a click handler to all the ‘Sign Up Now’ buttons on the
 page. The click handler should trigger an ‘alert’, with text that indicates which button was
